@@ -6,6 +6,7 @@ First of all you need install and run postgreSQL server https://www.postgresql.o
 
 Secondary you should create database:
 in terminal
+
 ```
 CREATE USER rafael WITH PASSWORD 'rafael97'
 
